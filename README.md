@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning C/C++ and also JS and some web frameworks
+
+
 <!--
 **SylvianBurn/SylvianBurn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
