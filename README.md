@@ -1,23 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-⚡ Third year IT student at EPITECH
+⚡ Fourth year IT student at EPITECH
 
-🌱 I’m currently learning C/C++, and also on my spare time i'm studying JavaScript and React frameworks
+🌱 I’m currently studying abroad in Kuala Lumpur, Malaysia. At the same time, I'm working as freelance front-end developper.
 
 📫 If you want to contact me, e-mail me at sylvian.burn@epitech.eu
 
-<h5 dir="auto">Languages</h5>
-<p dir="auto">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
-<h5 dir="auto">Tools</h5>
-<p dir="auto">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
+### My skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,androidstudio,dotnet,c,cpp,bash,git&perline=3)](https://skillicons.dev)
 
 <!--
 **SylvianBurn/SylvianBurn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
