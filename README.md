@@ -2,13 +2,13 @@
 
 ⚡ Fourth year IT student at EPITECH
 
-🌱 I’m currently studying abroad in Kuala Lumpur, Malaysia. At the same time, I'm working as freelance front-end developper.
+🌱 I’m currently studying abroad in Kuala Lumpur, Malaysia. At the same time, I'm working as a freelance front-end developper. On my spare time, I work on a ReactNative mobile application and i like plying around on fullstack application using React and NodeJS.
 
 📫 If you want to contact me, e-mail me at sylvian.burn@epitech.eu
 
 ### My skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,androidstudio,dotnet,c,cpp,bash,git&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,ts,androidstudio,dotnet,c,cpp,bash,git&perline=3)](https://skillicons.dev)
 
 <!--
 **SylvianBurn/SylvianBurn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
