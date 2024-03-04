@@ -2,7 +2,7 @@
 
 ⚡ Fourth year IT student at EPITECH
 
-🌱 I’m currently studying abroad in Kuala Lumpur, Malaysia. At the same time, I'm working as a freelance front-end developper. On my spare time, I work on a ReactNative mobile application and i like plying around on fullstack application using React and NodeJS.
+🌱 I’m currently studying abroad in Kuala Lumpur, Malaysia. At the same time, I'm working as a freelance front-end developper. On my spare time, I work on a ReactNative mobile application and i like playing around on fullstack application using React and NodeJS.
 
 📫 If you want to contact me, e-mail me at sylvian.burn@epitech.eu
 
